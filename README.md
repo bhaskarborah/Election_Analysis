@@ -121,16 +121,28 @@ The challenges while generating the report are as below:
   Below is the breakdown of the number of votes and the percentage of total votes for each county in the precinct:
 
   County Name: Jefferson
+
   Number of votes: 38,855 
+
   Percentage of votes: 10.5% 
 
+
+
   County Name: Denver
+
   Number of votes: 306,055
+
   Percentage of votes: 82.8%
 
+
+
   County Name: Arapahoe
+
   Number of votes: 24,801
+
   Percentage of votes: 6.7%
+
+  
 
   Below screen shot provides the consolidated report:
 
@@ -158,11 +170,15 @@ Number of votes: 85,213
 
 Percentage of votes: 23.0%
 
+
+
 Candidate Name: Charles Diana DeGette
 
 Number of votes: 272,892
 
 Percentage of votes: 73.8%
+
+
 
 Candidate Name: Raymon Anthony Doane
 
