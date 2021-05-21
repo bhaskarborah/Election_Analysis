@@ -153,15 +153,21 @@ Below screenshot provides the same in the report:
 Below is the breakdown of the number of votes and the percentage of the total votes each candidate received:
 
 Candidate Name: Charles Casper Stockham
+
 Number of votes: 85,213
+
 Percentage of votes: 23.0%
 
 Candidate Name: Charles Diana DeGette
+
 Number of votes: 272,892
+
 Percentage of votes: 73.8%
 
 Candidate Name: Raymon Anthony Doane
+
 Number of votes: 11,606
+
 Percentage of votes: 3.1%
 
 Below screenshot shows the consolidated data as written to the report:
@@ -173,8 +179,11 @@ Below screenshot shows the consolidated data as written to the report:
 (5) Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 Below are the winning candidate's vote detail's:
+
 Winning Candidate's Name: Diana DeGette
+
 Winning Candidate's Vote Count: 272,892
+
 Winning Candidate's Vote Percentage: 73.8%
 
 Below screenshot shows the winning candidate's vote details as written to the report:
