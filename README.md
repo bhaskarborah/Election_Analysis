@@ -111,6 +111,8 @@ The challenges while generating the report are as below:
    The total number of votes cast is: 369,711
 
    Below screen shot shows it:
+
+
    ![Screen Shot 2021-05-21 at 12.03.58 PM](https://i.imgur.com/LLVEVaJ.png)
 
 
@@ -131,6 +133,7 @@ The challenges while generating the report are as below:
   Percentage of votes: 6.7%
 
   Below screen shot provides the consolidated report:
+
 ![Screen Shot 2021-05-21 at 12.09.13 PM](https://i.imgur.com/PoFaDvN.png)
 
 (3)  Which county had the largest number of votes?
@@ -140,6 +143,8 @@ County Name: Denver
 Number of votes: 306,055
 
 Below screenshot provides the same in the report:
+
+
 ![Screen Shot 2021-05-21 at 12.10.45 PM](https://i.imgur.com/i428jsD.png)
 
 
@@ -160,6 +165,8 @@ Number of votes: 11,606
 Percentage of votes: 3.1%
 
 Below screenshot shows the consolidated data as written to the report:
+
+
 ![Screen Shot 2021-05-21 at 12.16.17 PM](https://i.imgur.com/c1Oizpz.png)
 
 
@@ -180,18 +187,18 @@ Instead of finding the total number of votes, percentage of votes and winner per
 
 For example the below county variables can be updated to store and calculate state details:
 
-county_options = []
-county_votes = {}
-winning_county= ""
-winning_county_count = 0
+county_options = [], 
+county_votes = {}, 
+winning_county= "", 
+winning_county_count = 0, 
 winning_county_percentage = 0
 
 to
 
-state_options = []
-state_votes = {}
-winning_state = ""
-winning_state_count = 0
+state_options = [], 
+state_votes = {}, 
+winning_state = "", 
+winning_state_count = 0, 
 winning_state_percentage = 0
 
 Similarly the candidate details can be updated to use senatorial candidate details as well.
